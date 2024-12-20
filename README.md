@@ -5,9 +5,8 @@ I'm a passionate software developer with a keen interest in web development, clo
 
 ### 🌱 Currently Learning
 - Data Analysis and Visualization
-- Advanced JavaScript frameworks (React, Vue.js)
-- Cloud services (AWS, Azure)
 - Machine Learning and AI
+- Advanced JavaScript frameworks (React, Vue.js)
 
 ### 👯 Looking to Collaborate On
 - Open-source projects
@@ -15,15 +14,14 @@ I'm a passionate software developer with a keen interest in web development, clo
 - AI and Machine Learning initiatives
 
 ### 💬 Ask Me About
-- JavaScript, Python, and Go
+- Python, JavaScript, and MATLAB.
 - Web Development (HTML, CSS, JavaScript, React)
-- Cloud Computing (AWS, Azure)
 - AI and Machine Learning
 
 ### 📫 How to Reach Me
-- Email: cesar.dushime@example.com
-- LinkedIn: [Cesar Dushime](https://www.linkedin.com/in/cesardushime/)
-- Twitter: [@cesardushime](https://twitter.com/cesardushime)
+- Email: dushimezar2003@gmail.com 
+- LinkedIn: (https://www.linkedin.com/in/cesar-dushimimana-731345236/)
+- Twitter: (https://twitter.com/cesardushime)
 
 ### ⚡ Fun Fact
 I love Touch Typing. When I'm not coding, you can find me practicing typing touch typing, or watching podcasts.
