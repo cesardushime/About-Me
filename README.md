@@ -3,7 +3,7 @@
 ### About Me
 I'm a passionate software developer with a keen interest in web development, cloud computing, and AI and Machine Learning. I enjoy solving complex problems and building scalable solutions.
 
-### 🌱 Currently Learning
+###  Currently Learning
 - Data Analysis and Visualization
 - Machine Learning and AI
 - Python Django framework for BackEnd development
