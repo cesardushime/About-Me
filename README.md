@@ -1,4 +1,4 @@
-## Hi there, I'm Cesar Dushimimana! 👋
+## Hi there, I'm Cesar Dushimimana! 
 
 ### About Me
 I'm a passionate software developer with a keen interest in web development, cloud computing, and AI and Machine Learning. I enjoy solving complex problems and building scalable solutions.
