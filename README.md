@@ -14,8 +14,8 @@ I'm a passionate software developer with a keen interest in web development, clo
 - AI and Machine Learning initiatives
 
 ### 💬 Ask Me About
-- Python, JavaScript, and MATLAB.
-- Web Development (HTML, CSS, JavaScript, React)
+- Python, R programming, and MATLAB.
+- Web Development
 - AI and Machine Learning
 
 ### 📫 How to Reach Me
