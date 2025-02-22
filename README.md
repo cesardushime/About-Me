@@ -7,7 +7,6 @@ I'm a passionate software developer with a keen interest in web development, clo
 - Data Analysis and Visualization
 - Machine Learning and AI
 - Python Django framework for BackEnd development
-- Advanced JavaScript frameworks (React, Vue.js)
 
 ### 👯 Looking to Collaborate On
 - Open-source projects
