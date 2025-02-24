@@ -1,7 +1,7 @@
 ## Hi there, I'm Cesar Dushimimana! 
 
 ### About Me
-I'm a passionate software developer with a keen interest in web development, cloud computing, and AI and Machine Learning. I enjoy solving complex problems and building scalable solutions.
+Cesar is a Data Scientist & Business Intelligence Analyst enthusiast skilled in Python, ML, SQL & BigQuery, data wrangling, data analysis & visualization. I am pursuing Artificial Intelligence and Management at Luiss Guido Carli University in Rome, Italy. My experience involves various data analysis & visualization and Machine Learning projects, from Loan Approval prediction models, sales prediction, and medical data visualization, amongst others on my GitHub. 
 
 ###  Currently Learning
 - Machine Learning and AI
